@@ -1,0 +1,44 @@
+.heading{
+    font-size: xx-large;
+    width:100%;
+    font-weight: 800;
+    color:blueviolet;
+    padding-top: 15px;
+}
+.heading:hover{
+    font-size: xx-large;
+    width:100%;
+    font-weight: 800;
+    color:blueviolet;
+    padding-top: 15px;
+}
+.rules{
+    font-size: xx-large;
+    float:right;
+}
+.big_image{
+    width:100%;
+}
+.game{
+    font-size: 22px;
+}
+.modal-dialog{
+    width:90%;
+}
+.imgs{
+    display:inline-block;
+    width:45%;
+}
+h4{
+    font-size: 20px;
+    margin:0px;
+    line-height: 2;
+    background-color: turquoise;
+    color:orangered;
+}
+video{
+    background:url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
